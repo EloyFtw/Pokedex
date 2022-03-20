@@ -1,0 +1,371 @@
+body{
+    background: -o-linear-gradient(right, #dd1111, #f09b9b);
+    background-image: url(img/fondo.png);
+    background-color: #dd1111;
+
+    background-size: cover;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align:right;
+    -webkit-text-stroke: .8px rgb(233, 0, 0); 
+    font-size: 4em;
+}
+.header{
+    width: 100%;
+    float: left;
+    height: 30px;
+    background-color: gray;
+}
+.pokenm{
+    float:none;
+    position: absolute;
+    top: 120px; left: 50px;
+}
+#circulo{
+    float:none;
+    position: absolute;
+    top: 10px; left: 40px;
+    height:80px;
+    width:80px;
+    background:transparent;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+
+ #circulo:hover{
+    cursor:pointer;
+    background: rgba(235, 235, 235, 0.411);
+
+ }
+
+ #circulo2{
+    float:none;
+    position: absolute;
+    top: 10px; left: 126px;
+    height:25px;
+    width:25px;
+    background:transparent;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+ #circulo2:hover{
+    cursor:pointer;
+    background: rgba(255, 190, 190, 0.411);
+
+ }
+
+ #circulo3{
+    float:none;
+    position: absolute;
+    top: 10px; left: 164px;
+    height:25px;
+    width:25px;
+    background:transparent;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+ #circulo3:hover{
+    cursor:pointer;
+    background: rgba(235, 235, 235, 0.411);
+ }
+
+
+ #circulo4{
+    float:none;
+    position: absolute;
+    top: 10px; left: 198px;
+    height:25px;
+    width:25px;
+    background:transparent;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+ #circulo4:hover{
+    cursor:pointer;
+    background: rgba(235, 235, 235, 0.411);
+ }
+ #circulo5{
+    float:none;
+    position: absolute;
+    top: 433px; left: 45px;
+    height:50px;
+    width:50px;
+    background:transparent;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+ #circulo5:hover{
+    cursor:pointer;
+    background: rgba(66, 66, 66, 0.479);
+ }
+ #circulo6{
+    float:none;
+    position: absolute;
+    top: 468px; left:751px;
+    width: 30px;
+    height: 30px;
+    background:transparent;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+ }
+ #circulo6:hover{
+    cursor:pointer;
+    background: rgba(241, 239, 71, 0.479);
+ }
+
+
+ #Cuadrado {
+    float:none;
+    position: absolute;
+    top: 505px; left: 105px;
+    width: 130px;
+    height: 65px;
+    background: transparent;
+}
+#Cuadrado:hover{
+    cursor:pointer;
+    background: rgba(63, 187, 117, 0.479);
+ }
+ #Cuadrado2 {
+    float:none;
+    position: absolute;
+    top: 450px; left: 115px;
+    width: 55px;
+    height: 15px;
+    background: transparent;
+}
+#Cuadrado2:hover{
+    cursor:pointer;
+    background: red;
+ }
+ #Cuadrado3 {
+    float:none;
+    position: absolute;
+    top: 450px; left: 199px;
+    width: 55px;
+    height: 15px;
+    background: transparent;
+}
+#Cuadrado3:hover{
+    cursor:pointer;
+    background: rgb(0, 58, 97);
+ }
+
+ #Cuadrado4 {
+    float:none;
+    position: absolute;
+    top: 453px; left: 511px;
+    width: 53px;
+    height: 40px;
+    background: transparent;
+}
+#Cuadrado4:hover{
+    cursor:pointer;
+    background: rgb(155, 155, 155);
+ }
+
+ #Cuadrado5 {
+    float:none;
+    position: absolute;
+    top: 453px; left: 566px;
+    width: 55px;
+    height: 40px;
+    background: transparent;
+}
+#Cuadrado5:hover{
+    cursor:pointer;
+    background: rgb(155, 155, 155);
+ }
+
+ 
+ #Cuadrado6 {
+    float:none;
+    position: absolute;
+    top: 337px; left: 508px;
+    width: 57px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado6:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+
+ #Cuadrado7 {
+    float:none;
+    position: absolute;
+    top: 337px; left: 565px;
+    width: 57px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado7:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+
+ #Cuadrado8 {
+    float:none;
+    position: absolute;
+    top: 337px; left: 620px;
+    width: 57px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado8:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+
+ #Cuadrado9 {
+    float:none;
+    position: absolute;
+    top: 337px; left: 676px;
+    width: 52px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado9:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+ #Cuadrado10 {
+    float:none;
+    position: absolute;
+    top: 337px; left: 731px;
+    width: 52px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado10:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+ #Cuadrado11 {
+    float:none;
+    position: absolute;
+    top: 378px; left: 731px;
+    width: 52px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado11:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+ #Cuadrado12 {
+    float:none;
+    position: absolute;
+    top: 378px; left: 676px;
+    width: 52px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado12:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+ #Cuadrado13 {
+    float:none;
+    position: absolute;
+    top: 378px; left: 620px;
+    width: 55px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado13:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+ #Cuadrado14 {
+    float:none;
+    position: absolute;
+    top: 378px; left: 565px;
+    width: 55px;
+    height: 38px;
+    background: transparent;
+}
+#Cuadrado14:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+ #Cuadrado15 {
+    float:none;
+    position: absolute;
+    top: 378px; left: 508px;
+    width: 56px;
+    height: 40px;
+    background: transparent;
+}
+ #Cuadrado15:hover{
+    cursor:pointer;
+    background: rgba(79, 150, 255, 0.527);
+ }
+.imga{
+    float:none;
+    position: absolute;
+    top: 190px; left: 90px;
+}
+
+button {
+border: 1px black solid;
+background-color: #0c7af8;
+font-size: 1em;
+font-style: bold;
+color: aliceblue;
+}
+button:hover{
+    background-color: #0c7af8a1;
+    cursor:pointer;
+}
+.texted{
+    float:none;
+    position: absolute;
+    top: 360px; left: 135px;
+    -webkit-text-stroke: .8px rgb(59, 3, 3); 
+}
+
+.redonde{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 30px;
+    width: 220px;
+}
+.stats{
+    float:none;
+    position: absolute;
+    top: 250px; left: 525px;
+}
+p{
+    color: white;
+    font-style:oblique;
+}
+.altura{
+    float:none;
+    position: absolute;
+    top: 515px; left: 570px;
+}
+
+.peso{
+    float:none;
+    position: absolute;
+    top: 515px; left: 710px;
+}
+.type25{
+    float:none;
+    position: absolute;
+    top: 175px; left: 560px;
+}
+#franc{
+    float:none;
+    position: absolute;
+    top: 205px; left: 590px;
+}
